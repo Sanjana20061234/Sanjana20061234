@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**Sanjana20061234/Sanjana20061234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Sanjana Shah
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student at UEM Jaipur
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- JavaScript
+- MERN Stack Development
+- Data Structures & Algorithms
+
+## 🚀 Projects
+- Profile Card
+- My First Project
+- AI-Emotion-Detector
+
+## 🎯 Goal
+Become a Full Stack MERN Developer and build real-world projects.
+
+## 📫 GitHub
+https://github.com/Sanjana20061234
