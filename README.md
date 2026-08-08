@@ -9,8 +9,6 @@
 - Data Structures & Algorithms
 
 ## 🚀 Projects
-- Profile Card
-- My First Project
 - AI-Emotion-Detector
 
 ## 🎯 Goal
