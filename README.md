@@ -77,7 +77,8 @@ React, Tailwind CSS, C++ DSA, Python, basic ML/OpenCV
 
 | Project | Description | Tech |
 |---|---|---|
-| 😊 [Real-Time Face Emotion Detection](https://github.com/Sanjana20061234/face-emotion-detection) | Live emotion detection with HUD overlay and analytics report | Python, OpenCV, DeepFace |
+| 😊 [Real-Time Face Emotion Detection](https://github.com/Sanjana20061234/AI-Emotion-Detector) | Live emotion detection with HUD overlay and analytics report
+| Python, OpenCV, DeepFace |
 | 🎨 [CodeAlpha Frontend Tasks](https://github.com/Sanjana20061234/codealpha_tasks) | Image Gallery, Calculator, Portfolio, Music Player — internship deliverables | HTML, CSS, JS |
 
 ---
