@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 2nd Year B.Tech CSE student at **UEM Jaipur**
+- 🎓 3rd Year B.Tech CSE student at **UEM Jaipur**
 - 💻 Building projects across **MERN stack** and **Machine Learning**
 - 🧠 Solving DSA with C++, following **Striver's A2Z DSA Sheet**
 - 📊 Currently on the **NPTEL Introduction to Internet of Things** course (IIT Kharagpur)
