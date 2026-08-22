@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjana</h1>
-<h3 align="center">B.Tech CSE (2nd Year) @ UEM Jaipur | MERN Stack Dev | ML Learner</h3>
+<h3 align="center">B.Tech CSE (3rd Year) @ UEM Jaipur | MERN Stack Dev | ML Learner</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+UEM+Jaipur;MERN+Stack+Developer;DSA+with+C%2B%2B+(Striver's+A2Z);Learning+Machine+Learning;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
