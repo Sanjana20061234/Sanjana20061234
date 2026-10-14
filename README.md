@@ -16,7 +16,7 @@
 
 - 🎓 3rd Year B.Tech CSE student at **UEM Jaipur**
 - 💻 Building projects across **MERN stack** and **Machine Learning**
-- 🧠 Solving DSA with C++, following **Striver's A2Z DSA Sheet**
+- 🧠 Solving DSA with python, following **Striver's A2Z DSA Sheet**
 - 📊 Currently on the **NPTEL Introduction to Internet of Things** course (IIT Kharagpur)
 - 🐶 Dog person | Based in Jaipur, Rajasthan
 - ⚡ Fun fact: I once built a tourist-guide marketplace before I built my first portfolio site
@@ -26,12 +26,12 @@
 - NPTEL Introduction to Internet of Things (IIT Kharagpur)
 
 ### 🌱 Currently Learning
-- DSA in C++ (Striver's A2Z)
+- DSA in python 
 - MERN stack (React, Node.js, Express, MongoDB)
 - Machine Learning fundamentals
 
 ### 💬 Ask Me About
-React, Tailwind CSS, C++ DSA, Python, basic ML/OpenCV
+React, Tailwind CSS, python DSA, Python, basic ML/OpenCV
 
 ---
 
