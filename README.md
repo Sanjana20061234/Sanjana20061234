@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech CSE (3rd Year) @ UEM Jaipur | MERN Stack Dev | ML Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+UEM+Jaipur;MERN+Stack+Developer;DSA+with+C%2B%2B+(Striver's+A2Z);Learning+Machine+Learning;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%40+UEM+Jaipur;MERN+Stack+Developer;DSA+with+Python+(Striver's+A2Z);Learning+Machine+Learning;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +26,7 @@
 - NPTEL Introduction to Internet of Things (IIT Kharagpur)
 
 ### 🌱 Currently Learning
-- DSA in python 
+- DSA in python
 - MERN stack (React, Node.js, Express, MongoDB)
 - Machine Learning fundamentals
 
@@ -39,7 +39,6 @@ React, Tailwind CSS, python DSA, Python, basic ML/OpenCV
 
 **Languages**
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -77,8 +76,7 @@ React, Tailwind CSS, python DSA, Python, basic ML/OpenCV
 
 | Project | Description | Tech |
 |---|---|---|
-| 😊 [Real-Time Face Emotion Detection](https://github.com/Sanjana20061234/AI-Emotion-Detector) | Live emotion detection with HUD overlay and analytics report
-| Python, OpenCV, DeepFace |
+| 😊 [Real-Time Face Emotion Detection](https://github.com/Sanjana20061234/AI-Emotion-Detector) | Live emotion detection with HUD overlay and analytics report | Python, OpenCV, DeepFace |
 | 🎨 [CodeAlpha Frontend Tasks](https://github.com/Sanjana20061234/codealpha_tasks) | Image Gallery, Calculator, Portfolio, Music Player — internship deliverables | HTML, CSS, JS |
 
 ---
